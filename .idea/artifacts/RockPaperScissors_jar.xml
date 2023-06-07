@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RockPaperScissors:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RockPaperScissors_jar</output-path>
+    <root id="archive" name="RockPaperScissors.jar">
+      <element id="module-output" name="RockPaperScissors" />
+    </root>
+  </artifact>
+</component>
